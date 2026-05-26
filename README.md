@@ -91,7 +91,7 @@ AI-Spam-Detection-System/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Spam-Detection-System.git
+git clone https://github.com/bhaveshpa1234/AI-Spam-Detection-System.git
 ```
 
 ---
@@ -210,3 +210,21 @@ Bhavesh Parmar
 ## License
 
 This project is created for learning and educational purposes.
+
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+---
+
+### Spam Prediction
+
+![Spam Prediction](screenshots/spam.png)
+
+---
+
+### Ham Prediction
+
+![Ham Prediction](screenshots/ham.png)
