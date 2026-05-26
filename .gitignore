@@ -1,0 +1,28 @@
+# Virtual Environment
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# SQLite Database
+db.sqlite3
+
+# System Files
+.DS_Store
+
+# NLTK Data
+nltk_data/
+
+# Environment Variables
+.env
+
+# Pytest Cache
+.pytest_cache/
+
+# Migrations
+*/migrations/*.py
+!*/migrations/__init__.py
